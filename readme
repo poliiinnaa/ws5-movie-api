@@ -1,0 +1,21 @@
+# WS5 Movie API
+
+This project is a simple REST API for movies built with Node.js.  
+The backend uses Express, MongoDB Atlas, and Mongoose. The API supports basic CRUD operations for movie data.
+
+
+
+## Technologies Used
+- Node.js and Express
+- MongoDB Atlas (cloud database)
+- Mongoose (Object Data Modeling for MongoDB)
+- CORS and dotenv
+
+
+
+## How to Run the Project
+
+Install dependencies:
+
+```bash
+npm install
